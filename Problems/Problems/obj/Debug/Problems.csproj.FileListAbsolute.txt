@@ -1,0 +1,9 @@
+C:\Users\plamena\Desktop\KPK\23. Exam-Evening-Ticket-Office\Salimur\Problems\Problems\bin\Debug\Problems.exe.config
+C:\Users\plamena\Desktop\KPK\23. Exam-Evening-Ticket-Office\Salimur\Problems\Problems\obj\Debug\Problems.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\KPK\23. Exam-Evening-Ticket-Office\Salimur\Problems\Problems\bin\Debug\Problems.exe
+C:\Users\plamena\Desktop\KPK\23. Exam-Evening-Ticket-Office\Salimur\Problems\Problems\bin\Debug\Problems.pdb
+C:\Users\plamena\Desktop\KPK\23. Exam-Evening-Ticket-Office\Salimur\Problems\Problems\obj\Debug\Problems.exe
+C:\Users\plamena\Desktop\KPK\23. Exam-Evening-Ticket-Office\Salimur\Problems\Problems\obj\Debug\Problems.pdb
+C:\Users\plamena\Desktop\Problems\Problems\bin\Debug\Problems.exe.config
+C:\Users\plamena\Desktop\Problems\Problems\obj\Debug\Problems.exe
+C:\Users\plamena\Desktop\Problems\Problems\obj\Debug\Problems.pdb
